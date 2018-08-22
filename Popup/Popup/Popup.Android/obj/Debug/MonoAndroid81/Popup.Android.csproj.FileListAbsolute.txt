@@ -1,0 +1,2 @@
+C:\Users\OmerSezer\source\repos\Popup\Popup\Popup.Android\obj\Debug\MonoAndroid81\Popup.Android.csprojAssemblyReference.cache
+C:\Users\OmerSezer\source\repos\Popup\Popup\Popup.Android\obj\Debug\MonoAndroid81\res.flag

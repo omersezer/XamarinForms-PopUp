@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F77D40E9-92C4-4B83-8C16-D54482EDF4C0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Popup.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Popup/Popup.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="Popup/Popup.iOS/AppDelegate.cs" Line="26" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Popup.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D692E632-6B38-46D5-93C2-1B642C1CE51E" />
+  <MultiItemStartupConfigurations />
+</Properties>
